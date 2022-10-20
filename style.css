@@ -118,7 +118,7 @@ body {
    .img-section {
        display: none;
    }
-   .container{
-       width: 100%;
+   .container1, .container2, .container3{
+       width: 300px;
    }
 }
